@@ -6,10 +6,10 @@ export default function FavoritesPage() {
 			<h3 className='font-bold'>GitHub Search</h3>
 
 			<span>
-				<Link to='/' className='mr-2'>
+				<Link to='/github-search/' className='mr-2'>
 					Home
 				</Link>
-				<Link to='/favorites'>Favorites</Link>
+				<Link to='/github-search/favorites'>Favorites</Link>
 			</span>
 		</nav>
 	)
